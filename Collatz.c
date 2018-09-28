@@ -1,11 +1,6 @@
 # include <stdio.h>
 
 int main (){
-    // Variable i for quantity of terms
-    // Variables j for value of number
-    // Variables n for temporary value of number
-    // Variable max for maximum terms
-    // Variable num for number with maximum terms
     int i, j, max, num, K;
     unsigned n;
 
